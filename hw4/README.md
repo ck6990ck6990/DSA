@@ -1,0 +1,1 @@
+Simulation of stock trading
