@@ -1,6 +1,5 @@
 Nonograms
 -------------------------------------
-
 Input:
 
 m n ← The numbers of rows and columns of the bit map (matrix)
