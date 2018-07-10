@@ -1,1 +1,2 @@
 Simulation of stock trading
+------------------------------
