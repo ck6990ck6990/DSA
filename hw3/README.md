@@ -1,5 +1,4 @@
 Nonograms
-
 -------------------------------------
 
 Input:
@@ -29,6 +28,7 @@ b21 b22 . . . . . .  ← lengths of unbroken lines in column 2
 .
 
 bn1 bn2 . . . . . .  ← lengths of unbroken lines in column m
+
 ----------------------------------
 Output:
 
