@@ -1,4 +1,5 @@
 Problem definition:
+
     Calculate the inverse of a square matrix by Gaussian elimination.
 
 
